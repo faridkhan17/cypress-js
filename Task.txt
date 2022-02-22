@@ -1,0 +1,12 @@
+Test Scenarios:
+  Automated Test scenarios are defined according the User Stories given in the task. Partially completed survey doesn't update the 
+  dashboard so the last assertion is commented out in order to pass the test. 
+
+Project:
+  Playwright is used for the project with Typescript. Code can be improved with implementation of Page object model and function 
+  for repeatative tasks. So, it is not a clean code. It is implemented just for the demonstration.
+
+Observations:
+  - Partial completion of survey doesn't update in the dashboard
+  - Label color chart: colors are incorrectly assigned 
+  - During survey if someone doesn't want to answer a question or want to skip it, the survey can not be proceeded
