@@ -6,10 +6,10 @@
 - npx playwright install
 
 ## Run Tests
-- Run all test cases
+- Run all test cases: 
 npx playwright test
 
-- Run all test cases in headed mode
+- Run all test cases in headed mode: 
 npx playwright test --headed
 
 
